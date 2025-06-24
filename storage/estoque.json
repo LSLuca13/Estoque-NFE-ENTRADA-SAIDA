@@ -1,0 +1,138 @@
+[
+    {
+        "codigo": "00029523",
+        "nome": "ARTERO TEMPRANILLO (BODEGAS MUNOZ) 2023",
+        "quantidade": 36,
+        "preco": 43.6216666667,
+        "fornecedor": "DECANTER VINHOS FINOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "00237723",
+        "nome": "REY DE COPAS TEMPRANILLO (LOZANO) 2023",
+        "quantidade": 36,
+        "preco": 25.9233333333,
+        "fornecedor": "DECANTER VINHOS FINOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "00283324",
+        "nome": "MALBEC ESTATE (PHEBUS-BODEGAS FABRE) 2024",
+        "quantidade": 144,
+        "preco": 29.2974305556,
+        "fornecedor": "DECANTER VINHOS FINOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "001958",
+        "nome": "VILLA CARDETO PINOT GRIGIO (CARDETO)",
+        "quantidade": 90,
+        "preco": 42.8421111111,
+        "fornecedor": "DECANTER VINHOS FINOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "00027724",
+        "nome": "SAUVIGNON BLANC ESTATE (TERRANOBLE) 2024",
+        "quantidade": 72,
+        "preco": 30.0563888889,
+        "fornecedor": "DECANTER VINHOS FINOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "00041823",
+        "nome": "CARMENERE ESTATE (TERRANOBLE) 2023",
+        "quantidade": 72,
+        "preco": 30.0563888889,
+        "fornecedor": "DECANTER VINHOS FINOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "00217823",
+        "nome": "LA LINDA OLD VINES MALBEC (LUIGI BOSCA) 2023",
+        "quantidade": 72,
+        "preco": 56.9526388889,
+        "fornecedor": "DECANTER VINHOS FINOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "11831",
+        "nome": "ESPUMANTE ALMADEN BRANCO BRUT 6X750ML",
+        "quantidade": 60,
+        "preco": 21.7,
+        "fornecedor": "MIOLO WINE GROUP VITIVINICULTURA SA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "13058",
+        "nome": "VINHO FRISANTE NATURAL ALMADEN ROSE SUAVE MOSCATEL 6X750ML",
+        "quantidade": 60,
+        "preco": 16.59,
+        "fornecedor": "MIOLO WINE GROUP VITIVINICULTURA SA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "8161",
+        "nome": "ESPUMANTE TERRANOVA ROSE BRUT 6X750ML",
+        "quantidade": 60,
+        "preco": 27.32,
+        "fornecedor": "MIOLO WINE GROUP VITIVINICULTURA SA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "8156",
+        "nome": "ESPUMANTE TERRANOVA BRANCO BRUT 6X750ML",
+        "quantidade": 120,
+        "preco": 27.32,
+        "fornecedor": "MIOLO WINE GROUP VITIVINICULTURA SA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "5193",
+        "nome": "MALBEC ESTATE (PHEBUS-BODEGAS FABRE) 2024",
+        "quantidade": 3,
+        "preco": 63.2,
+        "fornecedor": "VINDE VINHOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "4589",
+        "nome": "MALBEC BARILOCHE (SCHROEDER) 2021",
+        "quantidade": 3,
+        "preco": 79.2,
+        "fornecedor": "VINDE VINHOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "5060",
+        "nome": "VINHO TINTO PORTENO MALBEC - 750ML",
+        "quantidade": 4,
+        "preco": 37.6,
+        "fornecedor": "VINDE VINHOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "2",
+        "nome": "Miolo Reserva Merlot",
+        "quantidade": 3,
+        "preco": 63.2,
+        "fornecedor": "VINDE VINHOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "1405",
+        "nome": "Miolo Selecao Bag Box Branco 3 litros",
+        "quantidade": 1,
+        "preco": 92.0,
+        "fornecedor": "VINDE VINHOS LTDA",
+        "estoque_minimo": 0
+    },
+    {
+        "codigo": "1377",
+        "nome": "Miolo Selecao Bag Box Tinto 3 Litros",
+        "quantidade": 1,
+        "preco": 92.0,
+        "fornecedor": "VINDE VINHOS LTDA",
+        "estoque_minimo": 0
+    }
+]

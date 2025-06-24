@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estoque tipo="entrada">
+    <produto>
+        <codigo>002</codigo>
+        <nome>Caneta Vermelha</nome>
+        <quantidade>32</quantidade>
+        <preco>2.50</preco>
+        <fornecedor>Papelaria Nacional</fornecedor>
+        <estoque_minimo>10</estoque_minimo>
+    </produto>
+</estoque>

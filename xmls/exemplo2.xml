@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estoque tipo="entrada">
+    <produto>
+        <codigo>999</codigo>
+        <nome>Caneta Fantasma</nome>
+        <quantidade>33</quantidade>
+        <preco>3.14</preco>
+        <fornecedor>Escritório Sombrio</fornecedor>
+        <estoque_minimo>5</estoque_minimo>
+    </produto>
+</estoque>
