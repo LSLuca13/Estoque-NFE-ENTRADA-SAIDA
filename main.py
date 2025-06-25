@@ -12,10 +12,11 @@ def menu():
         print("\n== Sistema de Estoque ==")
         print("1. Ver estoque")
         print("2. Importar XML de Entrada")
-        print("3. Buscar produtos com filtros")
-        print("4. Excluir produto por código")
-        print("5. Exportar estoque para Excel")
-        print("6. Sair")
+        print("3. Importar XML de Saída")
+        print("4. Buscar produtos com filtros")
+        print("5. Excluir produto por código")
+        print("6. Exportar estoque para Excel")
+        print("7. Sair")
 
         opcao = input("Escolha uma opção: ")
 
@@ -29,18 +30,23 @@ def menu():
             importar_xml(caminho)
 
         elif opcao == "3":
-            aplicar_filtros()
+            nome_arquivo = input("Digite o nome do arquivo XML de saída (dentro da pasta 'xmls/'): ")
+            caminho = os.path.join("xmls", nome_arquivo)
+            importar_saida_xml(caminho)
 
         elif opcao == "4":
+            aplicar_filtros()
+
+        elif opcao == "5":
             codigo = input("Digite o código do produto que deseja excluir: ").strip()
             excluir_produto_por_codigo(codigo)
             print(f"Produto com código {codigo} excluído (se existia).")
 
-        elif opcao == "5":
+        elif opcao == "6":
             produtos = listar_estoque()
             exportar_estoque_excel(produtos)
 
-        elif opcao == "6":
+        elif opcao == "7":
             print("Encerrando o sistema.")
             break
 
